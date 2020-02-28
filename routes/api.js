@@ -1,4 +1,3 @@
-// router/index.js
 // 加载依赖
 const router = require('koa-router')();
 const userctrl = require('../api/file');
